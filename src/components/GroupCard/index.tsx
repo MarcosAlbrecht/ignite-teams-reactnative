@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 import { TouchableOpacityProps } from "react-native";
 import { Container, Icon, Title } from "./styles";
 
